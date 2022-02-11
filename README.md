@@ -1,2 +1,2 @@
 # machine-learning-algorithms
-Implementation of machine learning algorithms
+Implementation of big data and machine learning algorithms 
